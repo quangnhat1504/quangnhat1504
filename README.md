@@ -23,13 +23,13 @@ Công nghệ chỉ có giá trị khi giải quyết bài toán thực. Sự ngh
 
 *Danh mục các dự án tâm huyết, minh chứng cho kỹ năng và tư duy giải quyết vấn đề.*
 
-| Dự án | Mô tả & Thành quả | Công nghệ |
-|-------|-------------------|-----------|
-| **[AI Agent Imputation](#)** | Nền tảng tự động hóa nội suy dữ liệu không gian - thời gian (Spatio-Temporal). Tích hợp Random Forest, LightGBM và Recharts cho EDA. | Python, LightGBM, React |
-| **[OCR PDF Question Extractor](#)** | Pipeline trích xuất tự động các câu hỏi trắc nghiệm từ PDF. Nhận diện cấu trúc và neo (anchor) chuẩn xác từ ảnh. | Python, PyMuPDF, OCRmyPDF |
-| **[Coursera Scraper Suite](#)** | Hệ thống cào dữ liệu và xử lý bài giảng Coursera hoàn chỉnh, tự động bypass xác thực bằng Playwright. | Python, Playwright, Markdown |
-
-> *(Ghi chú: Thay `#` bằng link dẫn đến repository thực tế của bạn)*
+| Dự án (Project) | Mô tả & Thành quả (Description & Impact) | Công nghệ (Tech Stack) |
+|-----------------|------------------------------------------|------------------------|
+| **[Autonomous Spatio-Temporal AI Imputer](https://github.com/AnhDuybugde/ai-agent-imputation)** | Hệ thống tự động phục hồi dữ liệu khuyết thiếu (missing data recovery) cho chuỗi thời gian không gian. Xây dựng routing thông minh chọn mô hình ML tối ưu. | Python, FastAPI, LightGBM, React |
+| **[HCMC AQI Prediction Agent](https://github.com/4aesieunhan/air-quality-hcmc)** | Hệ thống thu thập, xử lý dữ liệu và dự đoán chỉ số chất lượng không khí (AQI) tại TP.HCM (2022-2026). Quản lý pipeline với MongoDB. | Python, Data Mining, MongoDB |
+| **[LRLRP - ICPR 2026 Research](#)** | Nghiên cứu Super-Resolution & Tiny Object Detection áp dụng vào nhận diện biển số xe độ phân giải thấp (Low-Resolution License Plate Recognition). | Python, PyTorch, Computer Vision |
+| **[Social Media Automation](https://github.com/quangnhat1504/social_media_automation)** | Pipeline tự động hóa mạng xã hội tích hợp công cụ workflow n8n và AI để sinh nội dung và lập lịch đăng tải. | Python, n8n, Automation |
+| **[Coursera Scraper Suite](https://github.com/quangnhat1504/coursera_scraping_SWE201c)** | Hệ thống cào dữ liệu tự động bypass xác thực, trích xuất bài giảng phục vụ xây dựng kho tri thức RAG/NotebookLM. | Python, Playwright, Markdown |
 
 ---
 
