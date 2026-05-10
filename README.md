@@ -18,6 +18,7 @@
 - 📫 **Liên hệ với mình:** 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/angquangnhat.881269/)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-quang-nh%E1%BA%ADt-4806ba356/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/quangnhat1504/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[PLACEHOLDER_EMAIL])
 
 ---
@@ -44,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 Coding Stats & Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -65,6 +66,11 @@
       </td>
     </tr>
   </table>
+  <br/>
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/u/quangnhat1504/">
+    <img src="https://leetcard.jacoblin.cool/quangnhat1504?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
