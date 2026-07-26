@@ -15,7 +15,10 @@
     <img src="https://img.shields.io/github/followers/quangnhat1504?label=Followers&style=for-the-badge&color=FF1CF7&labelColor=1c1c2e&logo=github" alt="Followers" />
   </a>
   <a href="https://github.com/quangnhat1504?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Computer%20Vision-A371F7?style=for-the-badge&labelColor=1c1c2e" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-CV%20%7C%20Retrieval%20%7C%20ML%20Systems-A371F7?style=for-the-badge&labelColor=1c1c2e" alt="Focus" />
+  </a>
+  <a href="https://dangquangnhat.dev">
+    <img src="https://img.shields.io/badge/Portfolio-dangquangnhat.dev-10B981?style=for-the-badge&labelColor=1c1c2e&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/quangnhat1504">
     <img src="https://img.shields.io/badge/Based%20in-Đà%20Nẵng,%20VN-27B2F2?style=for-the-badge&labelColor=1c1c2e&logo=googlemaps&logoColor=white" alt="Location" />
@@ -39,14 +42,15 @@
 <table width="100%">
   <tr>
     <td width="68%" valign="top">
-      <p>Mình là sinh viên năm 2 chuyên ngành <b>Trí tuệ nhân tạo (AI)</b> tại <b>Đại học FPT Đà Nẵng</b>, đồng thời giữ vai trò <b>Chủ nhiệm Câu lạc bộ Công nghệ FU-DEVER</b>. Hành trình của mình tập trung vào hai cốt lõi song song: <b>Nghiên cứu ứng dụng Học máy / Thị giác máy tính</b> và <b>Kiến tạo cộng đồng sinh viên IT vững mạnh</b>.</p>
+      <p>Mình là sinh viên chuyên ngành <b>Trí tuệ nhân tạo (AI)</b> tại <b>Đại học FPT Đà Nẵng</b>, đồng thời giữ vai trò <b>Chủ nhiệm Câu lạc bộ Công nghệ FU-DEVER</b>. Hành trình của mình tập trung vào hai cốt lõi song song: <b>Computer Vision / ML Systems / Scientific Retrieval</b> và <b>kiến tạo cộng đồng sinh viên IT vững mạnh</b>.</p>
       <ul>
-        <li>🎓 <b>Học tập &amp; Nghiên cứu:</b> Nghiên cứu viên đề tài <b>Low-Resolution License Plate Recognition (LRLRP)</b> hướng tới hội nghị <b>ICPR 2026</b>. Đam mê sâu sắc về <b>Computer Vision</b> — đặc biệt <i>Tiny Object Detection</i>, <i>Super-Resolution</i> và <i>OCR</i>.</li>
+        <li>🎓 <b>Học tập &amp; Nghiên cứu:</b> Tập trung vào <b>Tiny Object Detection</b>, <b>Scientific Retrieval / RAG</b>, <b>Multimodal Audio-Visual Learning</b> và <b>Time-Series Imputation</b>, ưu tiên kết quả có benchmark và repo tái lập.</li>
         <li>🏆 <b>Lãnh đạo &amp; Cộng đồng:</b> Dẫn dắt <b>FU-DEVER</b> — một trong những CLB công nghệ năng động nhất tại FPTU Đà Nẵng, tạo bệ phóng cho hàng trăm sinh viên qua các buổi Training, Hackathon và dự án thực tế.</li>
         <li>🏃‍♂️ <b>Kỷ luật &amp; Tự rèn luyện:</b> Chạy bộ 5km mỗi ngày để duy trì sự bền bỉ và tính kỷ luật; tự học tiếng Nhật sơ cấp hướng tới môi trường công nghệ toàn cầu.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/🔬_Đang_nghiên_cứu-LRLRP_→_ICPR_2026-FF1CF7?style=flat-square&labelColor=1c1c2e" alt="Researching" />
+        <a href="https://dangquangnhat.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-dangquangnhat.dev-10B981?style=flat-square&labelColor=1c1c2e" alt="Portfolio" /></a>
+        <img src="https://img.shields.io/badge/🔬_Research-ML_Systems_%2B_CV-FF1CF7?style=flat-square&labelColor=1c1c2e" alt="Researching" />
         <img src="https://img.shields.io/badge/📚_Đang_học-Tiếng_Nhật_N5-27B2F2?style=flat-square&labelColor=1c1c2e" alt="Learning" />
       </p>
     </td>
@@ -105,76 +109,68 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🔬 LRLRP — ICPR 2026 Research</h4>
-      <p>Nghiên cứu Super-Resolution &amp; Tiny Object Detection cho nhận diện biển số xe độ phân giải cực thấp (Low-Resolution License Plate Recognition), hướng tới hội nghị ICPR 2026.</p>
+      <h4>🎯 Tiny Object Detection — ALW / SA-ALW</h4>
+      <p>Nghiên cứu metric cho phát hiện vật thể siêu nhỏ trên ảnh hàng hải; SA-ALW full đạt test AP 0.0978 và AP50 0.3059 trên locked SOD-TinyPeopleInSea test set.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/Computer_Vision-4B0082?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/Research-Active-blue?style=flat-square" alt="Research" />
       </p>
+      <a href="https://github.com/quangnhat1504/Tiny_Object_Detection"><b>Repo ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 Tiny Object Detection</h4>
-      <p>Pipeline phát hiện vật thể siêu nhỏ (&lt;16px) dựa trên RFLA + ALW metric trên nền YOLO, kèm EDA và augmentation chuyên sâu cho bài toán tiny object.</p>
+      <h4>🔊 Audio-Visual Contact Classification</h4>
+      <p>Pipeline fusion audio-visual cho phân loại vật liệu tiếp xúc trong môi trường cây trồng, đạt Macro F1 0.850781 trên 2,219 windows robot/test được seal.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
-        <img src="https://img.shields.io/badge/Albumentations-FF6F00?style=flat-square" alt="Albumentations" />
+        <img src="https://img.shields.io/badge/wav2vec2-FF6F00?style=flat-square" alt="wav2vec2" />
+        <img src="https://img.shields.io/badge/CLIP-189FDD?style=flat-square" alt="CLIP" />
       </p>
+      <a href="https://github.com/taxaceaee/Audio-Visual-Contact-Classification"><b>Repo ↗</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📚 SEG — Cost-Efficient Paper Retrieval</h4>
-      <p>Hệ thống truy hồi tài liệu khoa học đa tầng: BM25 + dense retrieval + hybrid RRF, với query router động và cross-encoder reranking tối ưu chi phí.</p>
+      <h4>📚 SEG Search Engine — Scientific Retrieval &amp; RAG</h4>
+      <p>Web search và notebook RAG cho tài liệu khoa học, kết hợp BM25, BGE-base embeddings, Adaptive RRF và benchmark SGAF trên nhiều dataset truy hồi.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/Sentence_Transformers-3776AB?style=flat-square" alt="Sentence Transformers" />
         <img src="https://img.shields.io/badge/FAISS-009688?style=flat-square" alt="FAISS" />
       </p>
-      <a href="https://github.com/quangnhat1504/Group6-SEG"><b>Repo ↗</b></a>
+      <a href="https://search-engine-web.vercel.app/"><b>Website ↗</b></a> ·
+      <a href="https://github.com/AnhDuybugde/search-engine-web"><b>Repo ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🔊 Multi-Model Audio Classification</h4>
-      <p>So sánh nhiều kiến trúc phân loại âm thanh (AST, MFCC+FFT, XGBoost) cùng các chiến lược robustness: spectral gating, noise augmentation, frequency MixStyle.</p>
+      <h4>📈 MLBII — Time-Series Imputation Research</h4>
+      <p>Repo tái lập cho paper continuous-gap multivariate time-series imputation, dùng bidirectional temporal lags, cross-variable context, iterative refinement và directional fusion.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Librosa-FF6F00?style=flat-square" alt="Librosa" />
-        <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LightGBM-00C7B7?style=flat-square" alt="LightGBM" />
+        <img src="https://img.shields.io/badge/BRITS_%2F_SAITS-FF9900?style=flat-square" alt="BRITS and SAITS" />
       </p>
+      <a href="https://github.com/AnhDuybugde/MLBII"><b>Repo ↗</b></a>
     </td>
   </tr>
 </table>
 
-<!-- ----- Nhóm 2: AI Agents & Data Applications ----- -->
+<!-- ----- Nhóm 2: ML Systems & Data Applications ----- -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Agents_•_Data_Applications-A371F7?style=for-the-badge&labelColor=1c1c2e" alt="AI Agents & Data" />
+  <img src="https://img.shields.io/badge/🤖_ML_Systems_•_Data_Applications-A371F7?style=for-the-badge&labelColor=1c1c2e" alt="ML Systems & Data" />
 </div>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Autonomous AI Imputation Agent</h4>
-      <p>Agent tự động phát hiện &amp; lấp đầy dữ liệu khuyết thiếu cho chuỗi thời gian khí tượng Việt Nam, với routing động chọn thuật toán imputation theo đặc điểm gap.</p>
+      <h4>🚦 TrafficFlow — Vehicle Counting Platform</h4>
+      <p>Nền tảng phân tích video giao thông với ROI preprocessing, YOLO inference, tracking, lane association, line-crossing count và video output annotation.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/LightGBM-00C7B7?style=flat-square" alt="LightGBM" />
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
+        <img src="https://img.shields.io/badge/ByteTrack-FF9900?style=flat-square" alt="ByteTrack" />
       </p>
-      <a href="https://github.com/AnhDuybugde/ai-agent-imputation"><b>Repo ↗</b></a>
+      <a href="https://github.com/monsierpotato/Traffic-Flow"><b>Repo ↗</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h4>📓 NotebookLM-style RAG</h4>
-      <p>Hệ thống RAG 4 giai đoạn Q&amp;A trên tài liệu khóa học: index PPTX, multi-query + cross-encoder retrieval, sinh câu trả lời qua Gemini, UI chat streaming.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB" />
-      </p>
-      <a href="https://github.com/quangnhat1504/RAG-notebooklm"><b>Repo ↗</b></a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🌿 HCMC AQI Prediction Agent</h4>
       <p>Xây dựng &amp; so sánh các mô hình dự báo chất lượng không khí (PM2.5/PM10/SO2/O3/NO2) cho 5 ngày tới tại TP.HCM, kèm dashboard trực quan.</p>
@@ -184,15 +180,6 @@
         <img src="https://img.shields.io/badge/LSTM-FF9900?style=flat-square" alt="LSTM" />
       </p>
       <a href="https://github.com/4aesieunhan/air-quality-hcmc"><b>Repo ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗣 AI Waifu — TTS + LLM Streaming</h4>
-      <p>Microservice TTS + LLM streaming real-time, dùng XTTS-v2 cho voice synthesis đa ngôn ngữ &amp; voice cloning, triển khai bằng Docker với SSE streaming.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/XTTS--v2-EE4C2C?style=flat-square" alt="XTTS-v2" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
     </td>
   </tr>
 </table>
@@ -215,14 +202,15 @@
       <a href="https://github.com/quangnhat1504/social_media_automation"><b>Repo ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🚦 TrafficFlow — Vehicle Counting</h4>
-      <p>Hệ thống đếm xe từ video giao thông: cấu hình hình học bằng giao diện vẽ, phát hiện &amp; theo dõi xe bằng YOLOv8 + ByteTrack rồi đếm tại điểm giao cắt.</p>
+      <h4>🌐 Personal Portfolio — Research &amp; Project Website</h4>
+      <p>Website portfolio triển khai trên Vercel, gom các project AI/ML, benchmark evidence, honors, research notes và link liên hệ trong một hồ sơ ứng tuyển rõ ràng.</p>
       <p>
-        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/ByteTrack-FF9900?style=flat-square" alt="ByteTrack" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
-      <a href="https://github.com/monsierpotato/Traffic-Flow"><b>Repo ↗</b></a>
+      <a href="https://dangquangnhat.dev"><b>Website ↗</b></a> ·
+      <a href="https://github.com/quangnhat1504/profolio"><b>Repo ↗</b></a>
     </td>
   </tr>
   <tr>
