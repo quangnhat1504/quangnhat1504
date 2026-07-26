@@ -17,8 +17,8 @@
   <a href="https://github.com/quangnhat1504?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-CV%20%7C%20Retrieval%20%7C%20ML%20Systems-A371F7?style=for-the-badge&labelColor=1c1c2e" alt="Focus" />
   </a>
-  <a href="https://dangquangnhat.dev">
-    <img src="https://img.shields.io/badge/Portfolio-dangquangnhat.dev-10B981?style=for-the-badge&labelColor=1c1c2e&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Vercel_Deployment-10B981?style=for-the-badge&labelColor=1c1c2e&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/quangnhat1504">
     <img src="https://img.shields.io/badge/Based%20in-Đà%20Nẵng,%20VN-27B2F2?style=for-the-badge&labelColor=1c1c2e&logo=googlemaps&logoColor=white" alt="Location" />
@@ -49,7 +49,7 @@
         <li>🏃‍♂️ <b>Kỷ luật &amp; Tự rèn luyện:</b> Chạy bộ 5km mỗi ngày để duy trì sự bền bỉ và tính kỷ luật; tự học tiếng Nhật sơ cấp hướng tới môi trường công nghệ toàn cầu.</li>
       </ul>
       <p>
-        <a href="https://dangquangnhat.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-dangquangnhat.dev-10B981?style=flat-square&labelColor=1c1c2e" alt="Portfolio" /></a>
+        <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Vercel_Deployment-10B981?style=flat-square&labelColor=1c1c2e" alt="Portfolio" /></a>
         <img src="https://img.shields.io/badge/🔬_Research-ML_Systems_%2B_CV-FF1CF7?style=flat-square&labelColor=1c1c2e" alt="Researching" />
         <img src="https://img.shields.io/badge/📚_Đang_học-Tiếng_Nhật_N5-27B2F2?style=flat-square&labelColor=1c1c2e" alt="Learning" />
       </p>
@@ -209,7 +209,7 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
-      <a href="https://dangquangnhat.dev"><b>Website ↗</b></a> ·
+      <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app"><b>Website ↗</b></a> ·
       <a href="https://github.com/quangnhat1504/profolio"><b>Repo ↗</b></a>
     </td>
   </tr>
