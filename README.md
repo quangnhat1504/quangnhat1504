@@ -263,7 +263,9 @@
 <div align="center">
   <p>Mình luôn sẵn sàng đón nhận các cơ hội nghiên cứu AI, thực tập thực tế, hoặc hợp tác phát triển cộng đồng và mã nguồn mở.</p>
 
-  <img src="https://img.shields.io/badge/LinkedIn-Đặng_Quang_Nhật-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Đặng Quang Nhật" />
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-quang-nh%E1%BA%ADt-4806ba356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Đặng_Quang_Nhật-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Đặng Quang Nhật" />
+  </a>
   <a href="mailto:quangnhat1504@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
