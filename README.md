@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Focus-CV%20%7C%20Retrieval%20%7C%20ML%20Systems-A371F7?style=for-the-badge&labelColor=1c1c2e" alt="Focus" />
   </a>
   <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Vercel_Deployment-10B981?style=for-the-badge&labelColor=1c1c2e&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Portfolio-10B981?style=for-the-badge&labelColor=1c1c2e&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/quangnhat1504">
     <img src="https://img.shields.io/badge/Based%20in-Đà%20Nẵng,%20VN-27B2F2?style=for-the-badge&labelColor=1c1c2e&logo=googlemaps&logoColor=white" alt="Location" />
@@ -49,7 +49,7 @@
         <li>🏃‍♂️ <b>Kỷ luật &amp; Tự rèn luyện:</b> Chạy bộ 5km mỗi ngày để duy trì sự bền bỉ và tính kỷ luật; tự học tiếng Nhật sơ cấp hướng tới môi trường công nghệ toàn cầu.</li>
       </ul>
       <p>
-        <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Vercel_Deployment-10B981?style=flat-square&labelColor=1c1c2e" alt="Portfolio" /></a>
+        <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Portfolio-10B981?style=flat-square&labelColor=1c1c2e" alt="Portfolio" /></a>
         <img src="https://img.shields.io/badge/🔬_Research-ML_Systems_%2B_CV-FF1CF7?style=flat-square&labelColor=1c1c2e" alt="Researching" />
         <img src="https://img.shields.io/badge/📚_Đang_học-Tiếng_Nhật_N5-27B2F2?style=flat-square&labelColor=1c1c2e" alt="Learning" />
       </p>
@@ -199,7 +199,7 @@
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
       </p>
-      <a href="https://github.com/quangnhat1504/social_media_automation"><b>Repo ↗</b></a>
+      <b>Code private</b>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Personal Portfolio — Research &amp; Project Website</h4>
@@ -209,8 +209,7 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
-      <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app"><b>Website ↗</b></a> ·
-      <a href="https://github.com/quangnhat1504/profolio"><b>Repo ↗</b></a>
+      <a href="https://profolio-dangquangnhat1504-4288s-projects.vercel.app"><b>Website ↗</b></a>
     </td>
   </tr>
   <tr>
@@ -222,7 +221,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
       </p>
-      <a href="https://github.com/quangnhat1504/coursera_scraping_SWE201c"><b>Repo ↗</b></a>
+      <b>Code private</b>
     </td>
     <td width="50%" valign="top">
       <h4>☕ Vietnam Coffee Data Portal</h4>
@@ -240,36 +239,6 @@
 <div align="center">
   <a href="https://github.com/quangnhat1504?tab=repositories">
     <img src="https://img.shields.io/badge/Xem_Thêm_Dự_Án-Explore_All_Repos-FF1CF7?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c2e" alt="More Projects" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
-
-<!-- ========================= ANALYTICS ========================= -->
-## 📊 Thống kê GitHub — GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quangnhat1504&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=quangnhat1504&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnhat1504&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangnhat1504&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://leetcode.com/u/quangnhat1504/">
-    <img src="https://leetcard.jacoblin.cool/quangnhat1504?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -294,9 +263,7 @@
 <div align="center">
   <p>Mình luôn sẵn sàng đón nhận các cơ hội nghiên cứu AI, thực tập thực tế, hoặc hợp tác phát triển cộng đồng và mã nguồn mở.</p>
 
-  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-quang-nh%E1%BA%ADt-4806ba356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Đặng_Quang_Nhật-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Đặng Quang Nhật" />
   <a href="mailto:quangnhat1504@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
