@@ -244,6 +244,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
 
+<!-- ========================= ANALYTICS & STREAK ========================= -->
+## 📊 Thống kê GitHub & Chuỗi hoạt động — GitHub Analytics & Streak
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quangnhat1504&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=quangnhat1504&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnhat1504&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=quangnhat1504&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/quangnhat1504/">
+    <img src="https://leetcard.jacoblin.cool/quangnhat1504?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
+
 <!-- ========================= SNAKE ========================= -->
 ## 🐍 The Commit Snake
 
