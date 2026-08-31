@@ -248,14 +248,9 @@
 ## 📊 Thống kê GitHub & Chuỗi hoạt động — GitHub Analytics & Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quangnhat1504&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=quangnhat1504&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnhat1504&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangnhat1504&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangnhat1504&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangnhat1504&theme=radical" alt="Most Commit Language" />
 </div>
 
 <br/>
@@ -267,23 +262,46 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/u/quangnhat1504/">
+  <a href="https://leetcode.com/u/quangnhat1504/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/quangnhat1504?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
 
-<!-- ========================= SNAKE ========================= -->
-## 🐍 The Commit Snake
+<!-- ========================= ARCADE & INTERACTIVE ZONE ========================= -->
+## 🎮 Không gian Tương tác & Trò chơi — Arcade & Interactive Zone
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top" align="center">
+      <h4>🐍 The Commit Snake</h4>
+      <p><i>Hoạt ảnh rắn ăn điểm commit tự động cập nhật theo GitHub Contribution Graph:</i></p>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake.svg" width="100%">
+      </picture>
+    </td>
+    <td width="40%" valign="top">
+      <h4>👾 AI Engineer RPG Character</h4>
+      <p><code>[LEVEL 22] AI Adventurer &amp; Guild Master</code></p>
+      <ul>
+        <li>🎯 <b>Main Quest:</b> Master Computer Vision &amp; Tiny Object Detection</li>
+        <li>⚡ <b>Special Ability:</b> Spatio-Temporal Imputation &amp; Data Pipeline</li>
+        <li>🏃‍♂️ <b>Daily Buff:</b> 5KM Stamina Boost (+100 Energy)</li>
+        <li>🛡 <b>Guild:</b> President @ <b>FU-DEVER Club</b></li>
+      </ul>
+      <details>
+        <summary><b>🎁 Nhấn để khám phá Easter Egg bí mật</b></summary>
+        <br/>
+        <blockquote>
+          <i>"Mỗi dòng commit là một viên gạch xây dựng tương lai. Hãy kiên trì chạy từng bước 5km và viết từng dòng code chuẩn xác!"</i> 🚀
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
 
