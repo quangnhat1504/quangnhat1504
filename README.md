@@ -270,38 +270,38 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
 
 <!-- ========================= ARCADE & INTERACTIVE ZONE ========================= -->
-## 🎮 Không gian Tương tác & Trò chơi — Arcade & Interactive Zone
+## 🎮 Không Gian Giải Trí & Thách Đấu AI — Arcade Arena
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top" align="center">
-      <h4>🐍 The Commit Snake</h4>
-      <p><i>Hoạt ảnh rắn ăn điểm commit tự động cập nhật theo GitHub Contribution Graph:</i></p>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/github-contribution-grid-snake.svg" width="100%">
-      </picture>
-    </td>
-    <td width="40%" valign="top">
-      <h4>👾 AI Engineer RPG Character</h4>
-      <p><code>[LEVEL 22] AI Adventurer &amp; Guild Master</code></p>
-      <ul>
-        <li>🎯 <b>Main Quest:</b> Master Computer Vision &amp; Tiny Object Detection</li>
-        <li>⚡ <b>Special Ability:</b> Spatio-Temporal Imputation &amp; Data Pipeline</li>
-        <li>🏃‍♂️ <b>Daily Buff:</b> 5KM Stamina Boost (+100 Energy)</li>
-        <li>🛡 <b>Guild:</b> President @ <b>FU-DEVER Club</b></li>
-      </ul>
-      <details>
-        <summary><b>🎁 Nhấn để khám phá Easter Egg bí mật</b></summary>
-        <br/>
-        <blockquote>
-          <i>"Mỗi dòng commit là một viên gạch xây dựng tương lai. Hãy kiên trì chạy từng bước 5km và viết từng dòng code chuẩn xác!"</i> 🚀
-        </blockquote>
-      </details>
-    </td>
-  </tr>
-</table>
+<!-- TIC-TAC-TOE:START -->
+<div align="center">
+
+### 🕹️ Thách Đấu AI Bot — Tic-Tac-Toe Live Arena ⚔️
+*Bấm vào ô `[ ➕ ]` bất kỳ để ra đòn! GitHub Actions Bot sẽ tự động phản hồi nước cờ sau ~10 giây.*
+
+<br/>
+
+| Cột 1 | Cột 2 | Cột 3 |
+| :---: | :---: | :---: |
+| <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C0%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (0,0)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C0%2C1&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (0,1)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C0%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (0,2)" /></a> |
+| <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C1%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (1,0)" /></a> | <img src="https://img.shields.io/badge/%E2%9D%8C_Bạn-FF1CF7?style=for-the-badge&labelColor=1c1c2e" alt="X" /> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C1%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (1,2)" /></a> |
+| <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C2%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (2,0)" /></a> | <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI-27B2F2?style=for-the-badge&labelColor=1c1c2e" alt="O" /> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C2%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (2,2)" /></a> |
+
+<br/>
+
+**Trạng thái trận đấu:** ⚔️ @DuyTest vừa đi (2, 2). AI Bot đã đáp trả tại (3, 2). Đến lượt bạn (❌)!
+
+<br/>
+
+<a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cnew&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+b%E1%BA%AFt+%C4%91%E1%BA%A7u+v%C3%A1n+c%E1%BB%9D+m%E1%BB%9Bi%21">
+  <img src="https://img.shields.io/badge/%F0%9F%94%84_Ch%C6%A1i_V%C3%A1n_M%E1%BB%9Bi_•_Reset_Game-A371F7?style=for-the-badge&labelColor=1c1c2e" alt="Reset Game" />
+</a>
+
+<br/><br/>
+
+<sub>🏆 <b>Bảng Thành Tích:</b> Người chơi thắng: <b>0</b> | AI Bot thắng: <b>0</b> | Hòa: <b>0</b> • Đấu thủ gần nhất: <b>@DuyTest</b></sub>
+
+</div>
+<!-- TIC-TAC-TOE:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
 

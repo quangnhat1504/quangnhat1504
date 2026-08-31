@@ -1,0 +1,22 @@
+{
+  "board": [
+    " ",
+    " ",
+    " ",
+    " ",
+    "X",
+    " ",
+    " ",
+    "O",
+    " "
+  ],
+  "last_player": "DuyTest",
+  "status": "in_progress",
+  "message": "⚔️ @DuyTest vừa đi (2, 2). AI Bot đã đáp trả tại (3, 2). Đến lượt bạn (❌)!",
+  "stats": {
+    "player_wins": 0,
+    "ai_wins": 0,
+    "draws": 0,
+    "total_games": 0
+  }
+}
