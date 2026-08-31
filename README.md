@@ -270,7 +270,19 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1CF7,50:A371F7,100:27B2F2&height=3&width=100%&section=header" width="100%" alt="divider" />
 
 <!-- ========================= ARCADE & INTERACTIVE ZONE ========================= -->
-## 🎮 Không Gian Giải Trí & Thách Đấu AI — Arcade Arena
+## 🎮 Không Gian Trò Chơi & Tương Tác — Arcade & Interactive Zone
+
+### 🟡 Pac-Man Contribution Game
+<div align="center">
+  <p><i>🟡 Pac-Man ăn các điểm commit theo biểu đồ đóng góp (tự động cập nhật mỗi khi có commit mới!):</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/quangnhat1504/quangnhat1504/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
 
 <!-- TIC-TAC-TOE:START -->
 <div align="center">
@@ -283,12 +295,12 @@
 | Cột 1 | Cột 2 | Cột 3 |
 | :---: | :---: | :---: |
 | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C0%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (0,0)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C0%2C1&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (0,1)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C0%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (0,2)" /></a> |
-| <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C1%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (1,0)" /></a> | <img src="https://img.shields.io/badge/%E2%9D%8C_Bạn-FF1CF7?style=for-the-badge&labelColor=1c1c2e" alt="X" /> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C1%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (1,2)" /></a> |
-| <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C2%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (2,0)" /></a> | <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI-27B2F2?style=for-the-badge&labelColor=1c1c2e" alt="O" /> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C2%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (2,2)" /></a> |
+| <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C1%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (1,0)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C1%2C1&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (1,1)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C1%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (1,2)" /></a> |
+| <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C2%2C0&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (2,0)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C2%2C1&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (2,1)" /></a> | <a href="https://github.com/quangnhat1504/quangnhat1504/issues/new?title=ttt%7Cplay%7C2%2C2&body=Nh%E1%BA%A5n+%27Submit+new+issue%27+%C4%91%E1%BB%83+ch%E1%BB%8Dn+%C3%B4+n%C3%A0y%21"><img src="https://img.shields.io/badge/%E2%9E%95-26263a?style=for-the-badge&labelColor=1c1c2e" alt="Play (2,2)" /></a> |
 
 <br/>
 
-**Trạng thái trận đấu:** ⚔️ @DuyTest vừa đi (2, 2). AI Bot đã đáp trả tại (3, 2). Đến lượt bạn (❌)!
+**Trạng thái trận đấu:** 🟢 Đến lượt bạn! Nhấn vào một ô trống để đi nước cờ đầu tiên.
 
 <br/>
 
@@ -298,7 +310,7 @@
 
 <br/><br/>
 
-<sub>🏆 <b>Bảng Thành Tích:</b> Người chơi thắng: <b>0</b> | AI Bot thắng: <b>0</b> | Hòa: <b>0</b> • Đấu thủ gần nhất: <b>@DuyTest</b></sub>
+<sub>🏆 <b>Bảng Thành Tích:</b> Người chơi thắng: <b>0</b> | AI Bot thắng: <b>0</b> | Hòa: <b>0</b> • Đấu thủ gần nhất: <b>@None</b></sub>
 
 </div>
 <!-- TIC-TAC-TOE:END -->

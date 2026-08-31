@@ -1,0 +1,51 @@
+name: Generate Arcade Games & Contribution Graphs
+
+on:
+  # Chạy tự động mỗi 12 giờ
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Cho phép chạy thủ công từ tab Actions
+  workflow_dispatch:
+  
+  # Chạy ngay lập tức mỗi khi có commit mới push lên nhánh main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 1. Tạo hoạt ảnh Pac-Man ăn điểm commit trên Contribution Graph
+      - name: Generate Pac-Man contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+          hide_month_labels: 'false'
+
+      # 2. Tạo hoạt ảnh Snake ăn điểm commit
+      - name: Generate GitHub Contribution Grid Snake
+        uses: platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3. Đẩy toàn bộ các file SVG lên nhánh 'output'
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
